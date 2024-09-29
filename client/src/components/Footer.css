@@ -1,0 +1,65 @@
+/* src/components/Footer.css */
+
+.footer {
+    background-color: #333; /* Dark background for contrast */
+    color: #fff; /* White text for readability */
+    padding: 20px 0; /* Top and bottom padding */
+    text-align: center; /* Center-align text */
+    position: relative; /* Ensure positioning for footer elements */
+  }
+  
+  .footer .footer-content {
+    max-width: 1200px; /* Maximum width of the footer content */
+    margin: 0 auto; /* Center the content horizontally */
+    padding: 0 20px; /* Side padding */
+  }
+  
+  .footer h2 {
+    margin-bottom: 10px; /* Space below the heading */
+    font-size: 1.5rem; /* Font size for heading */
+  }
+  
+  .footer p {
+    margin-bottom: 10px; /* Space below the paragraph */
+  }
+  
+  .footer a {
+    color: #ffdd57; /* Bright color for links */
+    text-decoration: none; /* Remove underline from links */
+  }
+  
+  .footer a:hover {
+    text-decoration: underline; /* Underline on hover for better interaction */
+  }
+  
+  .footer .footer-logo img {
+    max-width: 150px; /* Limit logo width */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+  .footer .footer-links {
+    margin-top: 20px; /* Space above the links */
+  }
+  
+  .footer .footer-links a {
+    margin: 0 10px; /* Space between links */
+  }
+  
+  .footer .footer-links a:hover {
+    color: #ffdd57; /* Change color on hover */
+  }
+  
+  .footer .social-icons {
+    margin-top: 20px; /* Space above the social icons */
+  }
+  
+  .footer .social-icons a {
+    margin: 0 10px; /* Space between social icons */
+    color: #fff; /* White color for icons */
+    font-size: 1.5rem; /* Size of social icons */
+  }
+  
+  .footer .social-icons a:hover {
+    color: #ffdd57; /* Change color on hover */
+  }
+  

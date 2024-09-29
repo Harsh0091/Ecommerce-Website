@@ -1,0 +1,81 @@
+/* AboutPage.css */
+
+.about-page {
+    font-family: Arial, sans-serif;
+    color: #333;
+    padding: 20px;
+  }
+  
+  .about-hero {
+    padding: 60px 20px;
+    color: white;
+    text-align: center;
+  }
+  
+  .about-hero-text {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .about-hero h1 {
+    font-size: 2.5em;
+    margin: 0;
+  }
+  
+  .about-hero p {
+    font-size: 1.2em;
+  }
+  
+  .about-content {
+    padding: 40px 20px;
+  }
+  
+  .about-content h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .about-content p {
+    font-size: 1.1em;
+    line-height: 1.6;
+  }
+  
+  .about-content ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .about-content li {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+  }
+  
+  .about-team {
+    padding: 40px 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .about-team h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .team-members {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .team-member {
+    text-align: center;
+    width: 200px;
+  }
+  
+  .team-image {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
