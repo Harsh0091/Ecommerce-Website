@@ -1,14 +1,13 @@
 {
-  "name": "server",
+  "name": "ecommerce",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Harsh",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "bcryptjs": "^2.4.3",
@@ -23,5 +22,15 @@
     "mongoose": "^8.5.2",
     "multer": "^1.4.5-lts.1",
     "multer-gridfs-storage": "^5.0.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harsh0091/Ecommerce-Website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Harsh0091/Ecommerce-Website/issues"
+  },
+  "homepage": "https://github.com/Harsh0091/Ecommerce-Website#readme",
+  "description": ""
 }
