@@ -30,10 +30,10 @@ Ensure you have the following installed:
 - npm or yarn (for package management)
 
 ### 1. Clone the Repository
-
+```
 git clone https://github.com/Harsh0091/Ecommerce-Website.git
 cd your-ecommerce-repo
-
+```
 ### 2. Backend Setup
 
 1. Open your terminal and navigate to the backend directory:
